@@ -1,4 +1,4 @@
-module GoPracticeProjects
+module github.com/Prakhyath07/GoPracticeProjects
 
 go 1.20
 
